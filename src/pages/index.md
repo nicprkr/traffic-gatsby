@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Traffic Ultimate
 image: /img/cuc_championship_bracket_2023_jbp_20230819_183923-zf-6666-84431-1-004-.jpg
-heading: HEADING
+heading: About Us
 subheading: Vancouver women's ultimate frisbee
 mainpitch:
   title: Heart. Fire. Desire.
@@ -21,7 +21,7 @@ intro:
       text: "Our community involvement this year is this. "
     - image: /img/club_nationals_wcb_117668_20231019_165153-zf-8182-57478-1-003-.jpg
       text: "Our sponsors this year are this. "
-  heading: lorem ipsum
+  heading: "Some stuff here. "
   description: lorem ipsum
 main:
   heading: LOREM?
